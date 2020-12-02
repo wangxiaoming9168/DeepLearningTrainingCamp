@@ -1,2 +1,2 @@
-# DeepLearningTrainingCamp
-GitChat深度学习训练营读书笔记
+# DeepLearning
+深度学习入门读书笔记
